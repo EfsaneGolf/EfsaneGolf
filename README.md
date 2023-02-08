@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/938148543326191638)](https://discord.com/users/938148543326191638)
 ![Profile views](https://gpvc.arturio.dev/EfsaneGolf)
-<img align="right" src="https://tenor.com/view/downsign-qr-code-brick-game-art-puzzle-gif-13617041" />
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/LWocZxVYEzl8Y3LWIZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/space-alien-brick-breaker-LWocZxVYEzl8Y3LWIZ">via GIPHY</a></p>
 <h3 align="center">Technologies I Use</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
