@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/938148543326191638)](https://discord.com/users/938148543326191638)
-<h3 align="right">Technologies I Use</h2>
-<p align="right">
+<h3 align="center">Technologies I Use</h2>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
