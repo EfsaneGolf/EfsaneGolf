@@ -1,3 +1,12 @@
+# GOLF Here! 
+
+|||
+|-|-|
+| Languages that I can speak:	| English, Turkish 	|
+| Technologies I Use: 			| ![Linux](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/linux-22.png) ![Ubuntu](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/ubuntu-22.png) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) ![Nginx](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-22.png) ![Javascript](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/js-22.png) ![NestJS](https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.hLdG6hXQE4Dfil6090lrDEuGdsHbfQUijpy5RvzXjSg) ![TypeScript](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-22.png) ![Angular](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/angular-22.png) ![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![VueJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg) ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ![css](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/css3-22.png) |
+|Stalk count:					|	![counter](https://profile-counter.glitch.me/{EfsaneGolf}/count.svg)
+| Contact:        |   |
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/938148543326191638)](https://discord.com/users/938148543326191638)
 <h3 align="center">Technologies I Use</h2>
 <p align="center">
